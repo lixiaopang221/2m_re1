@@ -3,7 +3,7 @@
 ### Environment
 ---
 python(Tested on 3.6)  
-pytorch(Tested on 0.4.1)  
+pytorch(Tested on 1.13.0)  
 ### Data Set
 ---    
 KiTS19  data set(including training set and validation set).   
