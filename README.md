@@ -2,7 +2,7 @@
 ### This is an implementation of the paper Cross-Modality Deep Feature Learning for Brain Tumor Segmentation published on Pattern Recognition. 
 ### Environment
 ---
-python(Tested on 3.6)  
+python(Tested on 3.8)  
 pytorch(Tested on 1.13.0)  
 ### Data Set
 ---    
