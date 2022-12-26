@@ -1,0 +1,2 @@
+Training on 285 samples. Training 30000 steps.
+Training on 285 samples. Training 30000 steps.
