@@ -1,4 +1,4 @@
-### This is an implementation of the paper Cross-Modality Deep Feature Learning for Brain Tumor Segmentation published on Pattern Recognition.  The "2m_re1" program is for BraTS 2018 and the "2m_re17" program is for BraTS 2017. 
+### This is an implementation of the paper Cross-Modality Deep Feature Learning for Brain Tumor Segmentation published on Pattern Recognition.  The "2m_re1" program is for BraTS 2018. 
 ### Environment
 ---
 python(Tested on 3.6)  
